@@ -1,5 +1,5 @@
 ## `rpbd.py`
-Implementation of algorithms for Brownian dynamics of ring polymers. The python notebook contains example usage. <br>
+Implementation of algorithms for Brownian dynamics of ring polymers. The Jupyter Notebook contains example usage. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;—written by Phil Rauscher
 
 
