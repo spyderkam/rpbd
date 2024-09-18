@@ -1,3 +1,7 @@
+#!usr/bin/env python3
+
+__author__ = "Kamyar Modjtahedzadeh"
+
 # Due to the 'awk' command passed to subprocess.call method, this script can only be executed using Linux/Unix operating systems.
 
 from rpbd import *
