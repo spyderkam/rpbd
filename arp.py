@@ -8,7 +8,7 @@ from rpbd import *
 import subprocess     # https://www.kite.com/python/answers/how-to-run-bash-commands-in-python
 # https://stackoverflow.com/questions/30928540/append-to-file-using-subprocess-in-python
    
-m = 14    # number of beads per ring
+m = 14     # number of beads per ring
 n = 2      # number of rings
 setwrite = 1; run = 100000; N = int(run/setwrite)     # copy/paste
 
